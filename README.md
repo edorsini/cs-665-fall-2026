@@ -19,7 +19,6 @@ organized into directories by pattern.
 - [ ] Mediator
 - [ ] MVC
 - [x] Observer
-- [ ] Prototype
 - [ ] Proxy
 - [x] Singleton
 - [ ] State
