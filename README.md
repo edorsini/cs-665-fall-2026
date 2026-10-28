@@ -6,22 +6,18 @@ organized into directories by pattern.
 
 ## Course patterns
 
-- [ ] Adapter
-- [ ] Bridge
-- [ ] Builder
-- [ ] Command
-- [ ] Composite
-- [ ] Decorator
+- [x] Adapter
+- [x] Command
+- [x] Composite
+- [x] Decorator
 - [x] Facade
 - [x] Factory
-- [ ] Flyweight
 - [x] Iterator
-- [ ] Mediator
-- [ ] MVC
+- [x] Mediator
 - [x] Observer
-- [ ] Proxy
+- [x] Proxy
 - [x] Singleton
-- [ ] State
+- [x] State
 - [x] Strategy
 - [ ] Template
 - [ ] Visitor
